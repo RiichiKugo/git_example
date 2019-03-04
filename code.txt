@@ -1,2 +1,6 @@
-機能１を追加中
-現在、このコードは動かない
+#include <iostream>
+
+int main(void)
+{
+	return 0;
+}
